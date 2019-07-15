@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AssignmentTwo/AssignmentTwo.iml" filepath="$PROJECT_DIR$/AssignmentTwo/AssignmentTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebProject.iml" filepath="$PROJECT_DIR$/WebProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boostrap/boostrap.iml" filepath="$PROJECT_DIR$/boostrap/boostrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day one/day one.iml" filepath="$PROJECT_DIR$/day one/day one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pos boostrap/pos boostrap.iml" filepath="$PROJECT_DIR$/pos boostrap/pos boostrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pos eka div dala/pos eka div dala.iml" filepath="$PROJECT_DIR$/pos eka div dala/pos eka div dala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youtube/youtube.iml" filepath="$PROJECT_DIR$/youtube/youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youtube-bootsrap/youtube-bootsrap.iml" filepath="$PROJECT_DIR$/youtube-bootsrap/youtube-bootsrap.iml" />
+    </modules>
+  </component>
+</project>

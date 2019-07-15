@@ -1,0 +1,113 @@
+
+body{
+    background-color: slategrey;
+}
+
+nav{
+    width: 15%;
+    height: 400px;
+    position: fixed;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.top{
+    height: 50px;
+    background-color: dodgerblue;
+}
+.txt{
+
+    margin: 0;
+    padding: 7px 0px 0px 65px;
+    color: white;
+
+}
+.body{
+
+    height: 800px;
+    background-color: #465366;
+
+}
+.topb{
+    background-color: dodgerblue;
+    height: 50px;
+}
+.bodytxt{
+    width: 85%;
+    position: relative;
+    left: 15%;
+}
+.txtb{
+    margin: 0;
+    padding: 15px 0px 0px 45px;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.col{
+
+    height: 40px;
+    padding: 5px;
+    font-size: 15px;
+
+}
+
+.col:hover{
+    background-color: #22313b;
+    color: lavender;
+}
+
+.txt1{
+    margin: 0;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+
+}
+
+.icon{
+    padding-right: 10px;
+}
+
+.bc{
+    margin: 17px;
+    width: 97%;
+    height: 1500px;
+    background-color: lavender;
+}
+
+.topbc{
+    width: 100%;
+    height: 34px;
+    background-color: gainsboro;
+    font-family: 'Roboto', sans-serif;
+
+}
+.iconb{
+    padding-left: 10px;
+    padding-top: 8px;
+}
+.input{
+    margin-top: 10px;
+    width: 80%;
+    height: 30px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.file{
+    background-color: white;
+}
+
+.bot{
+    font-family: 'Roboto', sans-serif;
+
+}
+.but{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 80px;
+    height: 50px;
+    background-color: dodgerblue;
+    border-radius: 10px;
+}
